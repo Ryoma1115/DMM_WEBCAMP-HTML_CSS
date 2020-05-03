@@ -47,7 +47,7 @@ main {
 .step-box:last-child {
 	margin-right: 0;
 }
-@media screen and (max-width:425px) {
+@media screen and (max-width:768px) {
 	main {
  	width: 100%;
  	margin: 50px auto;
