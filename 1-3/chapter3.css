@@ -1,0 +1,13 @@
+.box1 {
+	width: 300px;
+	height: 300px;
+	color: transparent;
+	background: linear-gradient(0deg, #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%); 
+	padding: 30px;
+}
+.box2 {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	border: 5px solid yellow;
+}
